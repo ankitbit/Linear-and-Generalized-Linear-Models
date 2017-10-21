@@ -14,7 +14,7 @@
 
 
 ### Suggested Books-
-###### a) Introduction to the Statistical Learning Theory with R [6th Edition]- http://www-bcf.usc.edu/~gareth/ISL/     |      Authored by- Gareth James, Director of the Institute for Outlier Research in Business, Professor of Data Sciences and Operations, University of Southern California.
+###### a) Introduction to the Statistical Learning Theory with R [6th Edition]- http://www-bcf.usc.edu/~gareth/ISL/     |      Authored by- Gareth James, Director of the Institute for Outlier Research in Business, Professor of Data Sciences and Operations, University of Southern California     |    The student solutions to the problems of the same book can be found here- http://yahwes.github.io/ISLR/
 
 ###### b) Linear Models in Statistics - http://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf | Authored by
 ###### c) Regression Linear Models in Statistics - https://rufiismada.files.wordpress.com/2012/02/regression__linear_models_in_statistics.pdf     |    Authored by John M. Fry and Nicholas Bingham
