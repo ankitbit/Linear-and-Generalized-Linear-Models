@@ -6,6 +6,12 @@
 ##### Some solved problems based on general ideas of Linear and Generalized Linear Models  
 ### Personal Research Project 
 
+### Reference Course to follow up-
+###### STAT 312/612 Yale University : Linear Models | http://statsmaths.github.io/stat612/ | Instructor:Taylor Arnold E-mail: taylor.arnold@yale.edu
+
+
+
+
 
 ### Suggested Books-
 ###### a) Introduction to the Statistical Learning Theory with R [6th Edition]- http://www-bcf.usc.edu/~gareth/ISL/     |      Authored by- Gareth James, Director of the Institute for Outlier Research in Business, Professor of Data Sciences and Operations, University of Southern California.
