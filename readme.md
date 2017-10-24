@@ -6,6 +6,9 @@
 ##### Some solved problems based on general ideas of Linear and Generalized Linear Models  
 ### Personal Research Project 
 
+
+
+
 ### Reference Course to follow up-
 ###### STAT 312/612 Yale University : Linear Models | http://statsmaths.github.io/stat612/ | Instructor:Taylor Arnold E-mail: taylor.arnold@yale.edu
 
@@ -26,3 +29,6 @@
 ### Some of the online courses recommended for mastering the topic-
 ###### a) Linear Regression and Modelling- Coursera | The course is taught by the Mine Cetinkaya Rundel, An expert on Statistical Computing at the Duke University's Department of Statistics | https://www.coursera.org/learn/linear-regression-model  
 ###### b) 
+
+### Practical Relevant Projects 
+a) Advanced Housing Prices Prediction: https://ww2.amstat.org/publications/jse/v19n3/decock.pdf
