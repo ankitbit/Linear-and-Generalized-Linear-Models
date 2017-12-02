@@ -14,3 +14,7 @@ Basically, we depend on Generalized Linear Models because-
 * Link function: The role of the link function is to connect the means of the **Response Variable** to the **Linear Predictor**
 
 about binomial and quasi binomial
+
+
+### Understanding Generalized Linear Models (Model fitting)
+[Generalized Linear Model Fitting](https://rpubs.com/davoodastaraky/GLM): Authored by: Davood Astaraky
