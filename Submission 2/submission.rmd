@@ -1,0 +1,52 @@
+
+Creating a GLM based on model 1
+
+```{r model 1}
+library(car)
+data_glm<-read.csv2("Tewari , Ankit Ex2.csv")
+View(data_glm)
+#getwd()
+model1<-glm(y~x+t, data =data_glm, family = poisson)
+summary(model1)
+
+residualPlot(model1)
+logLik(model1)
+mod1<-model1
+(PS<-sum(residuals(mod1,type="pearson")^2))
+PS/mod1$df.res
+2*min(pchisq(PS,mod1$df.res),1-pchisq(PS,mod1$df.res))
+c(qchisq(0.025,mod1$df.res),qchisq(0.975,mod1$df.res))/mod1$df.res
+
+```
+
+
+```{r}
+model2<-glm(y~x+t, data = data_glm, family = poisson(link = "identity"))
+summary(model2)
+
+logLik(model2)
+
+mod2<-model2
+(PS<-sum(residuals(mod2,type="pearson")^2))
+PS/mod2$df.res
+2*min(pchisq(PS,mod2$df.res),1-pchisq(PS,mod2$df.res))
+c(qchisq(0.025, mod2$df.res),qchisq(0.975,mod2$df.res))/mod2$df.res
+
+residualPlot(mod2)
+```
+
+
+```{r}
+model3<-glm(y~x+t, data = data_glm, family = poisson(link = "sqrt"))
+summary(model3)
+logLik(model3)
+
+mod3<-model3
+(PS<-sum(residuals(mod3,type="pearson")^2))
+PS/mod3$df.res
+2*min(pchisq(PS,mod3$df.res),1-pchisq(PS,mod3$df.res))
+c(qchisq(0.025, mod3$df.res),qchisq(0.975,mod3$df.res))/mod3$df.res
+
+residualPlot(mod3)
+```
+
