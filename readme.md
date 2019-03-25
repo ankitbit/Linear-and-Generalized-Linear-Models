@@ -11,9 +11,9 @@ Course taught in the Autumn 2017 at Faculty of Mathematics and Statistics (FME) 
 
 
 ### Reference Course to follow up-
-STAT 312/612 Yale University : Linear Models | http://statsmaths.github.io/stat612/ | Instructor:Taylor Arnold E-mail: taylor.arnold@yale.edu
+- STAT 312/612 Yale University : Linear Models | http://statsmaths.github.io/stat612/ | Instructor:Taylor Arnold E-mail: taylor.arnold@yale.edu
 
-
+- Programming in R for Analytics [CMU](https://www.andrew.cmu.edu/user/achoulde/94842/)
 
 
 
